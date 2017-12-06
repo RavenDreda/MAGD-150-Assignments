@@ -1,6 +1,6 @@
 # MAGD-150-Assignments
 
-[Lab 1](https://github.com/RavenDreda/MAGD-150-Assignments/tree/gh-pages/f17magd150lab01_McLaughlin) required that we adhere to the theme of "buildings" in Processing using grayscale for our color.  We needed to use basic shapes such as rectangles and ellipses.
+[Lab 1](https://github.com/RavenDreda/MAGD-150-Assignments/blob/gh-pages/f17magd150lab01_McLaughlin/f17magd150lab01_McLaughlin.pde) required that we adhere to the theme of "buildings" in Processing using grayscale for our color.  We needed to use basic shapes such as rectangles and ellipses.
 
 [Lab 4](https://github.com/RavenDreda/MAGD-150-Assignments/tree/gh-pages/f17_magd_150_Lab_4_McLaughlin) was all about mouse interactivity.  That is, we needed the code to be connected to the movement of the mouse using mouseX and mouseY.
 
